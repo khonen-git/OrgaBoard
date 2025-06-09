@@ -93,14 +93,14 @@ Ce document suit la progression du développement d'OrgaBoard en suivant une app
 
 #### Sous-étapes détaillées :
 1. **Préparation de l'environnement** | 🟡 ⚡⚡
-   - [ ] Installation des dépendances de base
-   - [ ] Configuration de TypeScript
-   - [ ] Mise en place de la structure des dossiers
+   - [x] Installation des dépendances de base
+   - [x] Configuration de TypeScript
+   - [x] Mise en place de la structure des dossiers
    
 2. **Configuration du développement** | 🟠 ⚡⚡⚡
-   - [ ] Setup des outils de build (Vite/Webpack)
-   - [ ] Configuration des environnements (dev/prod)
-   - [ ] Setup des variables d'environnement
+   - [x] Setup des outils de build (Vite/Webpack)
+   - [x] Configuration des environnements (dev/prod)
+   - [x] Setup des variables d'environnement
 
 3. **Mise en place des outils de test** | 🟠 ⚡⚡
    - [ ] Configuration de l'environnement de test
@@ -468,10 +468,11 @@ Ce document suit la progression du développement d'OrgaBoard en suivant une app
 
 ## Journal des Modifications
 
-### [Date] - Initialisation
+### [09/06/2025] - Configuration Initiale
 - Création du DEVBOOK.md
 - Liste des étapes de développement établie
 - Ajout des évaluations de difficulté et charge de travail
-- Ajout des sous-étapes détaillées pour les tâches complexes
-- Ajout des cases à cocher et évaluation des sous-étapes
-- Ajout des sous-sous-étapes détaillées pour les sections complexes 
+- Ajout des sous-sous-étapes détaillées pour les sections complexes
+- Structure Git mise en place (main, develop, feature branches)
+- Installation des dépendances de base
+- Configuration des outils de développement (TypeScript, Vite, ESLint, etc.) 
